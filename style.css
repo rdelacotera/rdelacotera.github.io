@@ -38,3 +38,7 @@ ul {
     padding: 10px;
     border-radius: 10px;
 }   
+.titles {
+    font-size: 1.2em;
+    font-weight:bold
+}
