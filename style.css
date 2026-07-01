@@ -74,3 +74,8 @@ ul {
     font-size:1.3em;
     font-weight:bold;
 }
+footer {
+    color: #a82128;
+    font-size: 20px;
+    text-align: right;
+}
